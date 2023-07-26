@@ -1,6 +1,6 @@
 {
   "name": "scp2-2022",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A pure javascript scp program based on ssh2.",
   "author": "Mojtaba Sayari <ms.sayyari@gmail.com>",
   "homepage": "https://github.com/mssayari/node-scp2",
@@ -15,7 +15,7 @@
     "async": "~3.2.0",
     "glob": "~7.1.6",
     "lodash": "~4.17.15",
-    "ssh2": "^0.8.9"
+    "ssh2": "^1.14.0"
   },
   "repository": {
     "type": "git",
